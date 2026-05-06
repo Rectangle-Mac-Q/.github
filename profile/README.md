@@ -43,7 +43,7 @@ The <a href="#">keyboard shortcut system</a> covers every common window arrangem
 ---
 
 <p align="center">
-  <img src="https://mac-cdn.softpedia.com/screenshots/Rectangle_1.jpg" alt="Rectangle screenshot 2"/>
+  <img src="https://rectangleapp.com/pro/assets/images/throwSettingsScreenshot.jpg" alt="Rectangle screenshot 2"/>
 </p>
 
 ---
